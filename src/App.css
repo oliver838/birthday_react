@@ -85,3 +85,14 @@ body{
   align-items: center;
   justify-content: center;
 }
+
+@media  screen and (max-width:900px) {
+  .personcontainer{
+    gap: 0;
+    
+  }
+  .perscards{
+    margin: 20px;
+
+  }
+}
