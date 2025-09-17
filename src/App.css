@@ -80,3 +80,8 @@ body{
   object-fit: cover;      /* a lényeg: középre vág és kitölti a dobozt */
   object-position: center;
 }
+.show {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
